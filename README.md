@@ -28,20 +28,20 @@ Self-driven and consistent in improving technical skills
 
 ### 🛠 Tech Stack
 
-## Backend & Core
+# Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-## Authentication & Communication
+# Authentication & Communication
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## Database & Persistence
+# Database & Persistence
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## Tools
+# Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📌 Goal
